@@ -10,5 +10,5 @@
 
 
 
-\*\*Живий сайт:\*\* https://lab4-ivory.vercel.app
+\*\*сайт:\*\* https://lab4-ivory.vercel.app/
 
